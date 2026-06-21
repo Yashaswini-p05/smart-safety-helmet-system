@@ -63,7 +63,7 @@ An HTML-based dashboard was also developed to provide a user-friendly interface 
 
 The following diagram illustrates the overall architecture of the Smart Safety Helmet System, including sensor integration, communication modules, and monitoring components.
 
-![System Architecture](images/system_architecture.png)
+https://github.com/Yashaswini-p05/smart-safety-helmet-system/blob/231fb3a392976602512e0e5977e8472a6532e0a9/IMAGES/Smart%20Safety%20Helmet%20Architecture.png
 
 ---
 
