@@ -134,6 +134,6 @@ A demonstration video explaining the system architecture, hardware connections, 
 
 **Yashaswini Polakonda**
 
-Bachelor of Technology (B.Tech)
+Bachelor of Engineering (B.E)
 
 Major Project – Smart Safety Helmet System
